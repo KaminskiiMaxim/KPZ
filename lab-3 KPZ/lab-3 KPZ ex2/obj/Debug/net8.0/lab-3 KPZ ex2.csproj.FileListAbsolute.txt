@@ -1,0 +1,14 @@
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\bin\Debug\net8.0\lab-3 KPZ ex2.exe
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\bin\Debug\net8.0\lab-3 KPZ ex2.deps.json
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\bin\Debug\net8.0\lab-3 KPZ ex2.runtimeconfig.json
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\bin\Debug\net8.0\lab-3 KPZ ex2.dll
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\bin\Debug\net8.0\lab-3 KPZ ex2.pdb
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.AssemblyInfoInputs.cache
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.AssemblyInfo.cs
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.dll
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\refint\lab-3 KPZ ex2.dll
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.pdb
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\lab-3 KPZ ex2.genruntimeconfig.cache
+C:\Users\Дом\source\repos\lab-3 KPZ ex1\lab-3 KPZ ex2\obj\Debug\net8.0\ref\lab-3 KPZ ex2.dll
