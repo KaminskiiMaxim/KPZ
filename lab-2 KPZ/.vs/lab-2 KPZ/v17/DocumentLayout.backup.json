@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E12C6A1-C45A-459F-B889-20377D7F5B5F}|lab-2 KPZ ex4\\lab-2 KPZ ex4.csproj|c:\\users\\\u0434\u043E\u043C\\source\\repos\\lab-2 kpz\\lab-2 kpz ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E12C6A1-C45A-459F-B889-20377D7F5B5F}|lab-2 KPZ ex4\\lab-2 KPZ ex4.csproj|solutionrelative:lab-2 kpz ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BB844C-119D-4325-9A6C-51DF37C0A7E0}|lab-2 KPZ ex3\\lab-2 KPZ ex3.csproj|c:\\users\\\u0434\u043E\u043C\\source\\repos\\lab-2 kpz\\lab-2 kpz ex3\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BB844C-119D-4325-9A6C-51DF37C0A7E0}|lab-2 KPZ ex3\\lab-2 KPZ ex3.csproj|solutionrelative:lab-2 kpz ex3\\authenticator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13BB844C-119D-4325-9A6C-51DF37C0A7E0}|lab-2 KPZ ex3\\lab-2 KPZ ex3.csproj|c:\\users\\\u0434\u043E\u043C\\source\\repos\\lab-2 kpz\\lab-2 kpz ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13BB844C-119D-4325-9A6C-51DF37C0A7E0}|lab-2 KPZ ex3\\lab-2 KPZ ex3.csproj|solutionrelative:lab-2 kpz ex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex4\\Program.cs",
+              "RelativeDocumentMoniker": "lab-2 KPZ ex4\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex4\\Program.cs",
+              "RelativeToolTip": "lab-2 KPZ ex4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:06:06.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authenticator.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex3\\Authenticator.cs",
+              "RelativeDocumentMoniker": "lab-2 KPZ ex3\\Authenticator.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex3\\Authenticator.cs",
+              "RelativeToolTip": "lab-2 KPZ ex3\\Authenticator.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:40:01.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex3\\Program.cs",
+              "RelativeDocumentMoniker": "lab-2 KPZ ex3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u043E\u043C\\source\\repos\\lab-2 KPZ\\lab-2 KPZ ex3\\Program.cs",
+              "RelativeToolTip": "lab-2 KPZ ex3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:39:48.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
